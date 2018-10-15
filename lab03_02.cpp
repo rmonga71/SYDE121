@@ -1,6 +1,5 @@
 /*
-Student Name: Rohan Monga
-Student Number: 20763838
+Student Name: Rohan 
 Date: September 26th 2018
 Course: SYDE 121
 Lab Room: WEEF LAB, Room 1792
