@@ -1,19 +1,12 @@
 /*
 Name: Rohan Monga
-UWID: 20763838
 Date: October 26, 2018
 Course: SYDE 121
-Lab: WEEF Lab, E2 Room 1792
 Assignment: Lab 5 Assignment 1
 Exercise: Exercise #1
 File Name: lab05_01.cpp
 Project: 4x4 Tic Tac Toe
 Purpose: Let two players play tic tac toe against each other
-
-I hereby declare that this code, submitted for credit for the course
-SYDE 121, is a product of my own efforts. This coded solution has
-not been plagiarized from other sources and has not been knowingly
-plagiarized by others.
 
 Outline steps:
 
