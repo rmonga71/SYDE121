@@ -1,6 +1,5 @@
 /*
-Name: Rohan Monga
-UWID: 20763838
+Name: Rohan 
 Date: November 14, 2018
 Course: SYDE 121
 Lab: WEEF Lab, E2 Room 1792
